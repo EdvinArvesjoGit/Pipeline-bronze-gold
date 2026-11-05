@@ -1,2 +1,5 @@
 .venv
 .venv-1
+.env
+conn.py
+__pycache__
